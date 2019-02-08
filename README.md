@@ -2,7 +2,7 @@
 ## by Tanner Damron, Porter Savage, Clara Munro, Maddy Haldeman, and Jimmy Zebroski
 
 ## Description
-A vanilla JavaScript game that the player controls the astronaut and tries to move around and avoid all obstacles, crashing into any of them will end the game and show the players score.
+A javaScript game that the player controls the astronaut and tries to move around and avoid all obstacles, crashing into any of them will end the game and show the players score.
 
 ## Specifications
 
