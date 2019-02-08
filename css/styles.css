@@ -1,0 +1,154 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: auto;
+  background: url("../img/background.png");
+  background-size: 100%;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding-top: 10%;
+}
+
+.container-fluid {
+  padding: 0;
+}
+
+
+.game{
+  width: 100vw;
+  height: 100vh;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+canvas {
+  text-align: center;
+  width: 100vw;
+  height: 100vh;
+  background-image: url("../img/canvas-gif.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.col-lg-6{
+  padding-right: 500px;
+}
+
+#titlepagestuff {
+  padding: 5%;
+}
+
+.movePlayButton{
+width: 40%;
+height: auto;
+
+}
+.moveInstructions{
+  width: 40%;
+  height: auto;
+
+}
+#instructPopUp{
+  display:none;
+  width:80%;
+  height: auto;
+}
+
+.click:hover {
+  cursor: pointer;
+}
+
+@font-face {
+  font-family: 'starjedi';
+  src: url('../css/Starjedi.ttf');
+}
+
+@font-face {
+  font-family: gameover;
+  src: url(../css/gameover.ttf);
+}
+
+.endingScreen {
+  background-image: url("../img/endscreen.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+}
+
+h1 {
+  font-size: 72px;
+  background: -webkit-linear-gradient(#fafa03, #fa0a03);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: starjedi;
+  font-weight: bolder;
+  font-size: 150px;
+}
+
+#tryAgain {
+  height: 50px;
+}
+
+#tryAgain:hover{
+  cursor: pointer;
+}
+
+.home:hover{
+  cursor: pointer;
+}
+
+.home {
+  height: 50px;
+}
+
+#endScore {
+  text-align: center;
+  border-style: none;
+  background: none;
+  color: gold;
+  text-shadow: black 2px 2px;
+  font-family: starjedi;
+  font-size: 40px;
+  margin-top: 100px;
+  text-shadow: 0 1px 0 #ccc,
+  0 2px 0 black,
+  0 3px 0 black,
+  0 4px 0 black,
+  0 5px 0 black,
+  0 6px 1px rgba(0,0,0,.1),
+  0 0 5px rgba(0,0,0,.1),
+  0 1px 3px rgba(0,0,0,.3),
+  0 3px 5px rgba(0,0,0,.2),
+  0 5px 10px rgba(0,0,0,.25),
+  0 10px 10px rgba(0,0,0,.2),
+  0 20px 20px rgba(0,0,0,.15);
+}
+
+#infoPanel {
+  height: 300px;
+  display: none;
+}
+
+#infoButton:hover {
+  cursor: pointer;
+}
+
+#infoButton {
+  width: 10%;
+  height: auto;
+  padding:2%;
+  position: fixed;
+  bottom: 5%;
+}
+
+#gameOverImage {
+  width: 25vw;
+  height: 25vh;
+}
