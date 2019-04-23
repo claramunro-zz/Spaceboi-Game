@@ -1,4 +1,4 @@
-# Spaceboi (Javascript Game)
+# SPACEBOI
 ## by Tanner Damron, Porter Savage, Clara Munro, Maddy Haldeman, and Jimmy Zebroski
 
 ## Description
