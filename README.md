@@ -4,6 +4,8 @@
 ## Description
 A javaScript game that the player controls the astronaut and tries to move around and avoid all obstacles, crashing into any of them will end the game and show the players score.
 
+[![Image from Gyazo](https://i.gyazo.com/11eb8611ca480b09a213ba7d2696f210.gif)](https://gyazo.com/11eb8611ca480b09a213ba7d2696f210)
+
 ## Specifications
 
 #### Behavior: Movement
