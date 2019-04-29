@@ -1,10 +1,20 @@
 # SPACEBOI
-## by Tanner Damron, Porter Savage, Clara Munro, Maddy Haldeman, and Jimmy Zebroski
+
+#### by Tanner Damron, Porter Savage, Clara Munro, Maddy Haldeman, and Jimmy Zebroski
 
 ## Description
 A javaScript game that the player controls the astronaut and tries to move around and avoid all obstacles, crashing into any of them will end the game and show the players score.
 
-[![Image from Gyazo](https://i.gyazo.com/69ee0bdca731ff2aed8f7510abef20e8.gif)](https://gyazo.com/69ee0bdca731ff2aed8f7510abef20e8)
+
+<table>
+  <td><img src="/wireframe-images/mockup1.gif" /></td>
+  <td><img src="/wireframe-images/mockup3.gif" /></td>  
+</table>
+
+
+[![Image from Gyazo](https://i.gyazo.com/4f3325c66091f6c9b7f11c1ba8f714e0.gif)](https://gyazo.com/4f3325c66091f6c9b7f11c1ba8f714e0)
+
+
 
 ## Specifications
 
@@ -38,5 +48,8 @@ A javaScript game that the player controls the astronaut and tries to move aroun
 * Bootstrap
 * JavaScript
 * jQuery
+
+[![Image from Gyazo](https://i.gyazo.com/69ee0bdca731ff2aed8f7510abef20e8.gif)](https://gyazo.com/69ee0bdca731ff2aed8f7510abef20e8)
+
 
 Copyright (c) 2019 Tanner Damron, Porter Savage, Clara Munro, Maddy Haldeman, and Jimmy Zebroski.
