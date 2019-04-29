@@ -1,8 +1,6 @@
-# SPACEBOI
+# <img width="50%" src="spaceboi.gif" />
 
 #### by Tanner Damron, Porter Savage, Clara Munro, Maddy Haldeman, and Jimmy Zebroski
-
-<img width="15%" src="4f3325c66091f6c9b7f11c1ba8f714e0.gif" />
 
 ## Description
 A javaScript game that the player controls the astronaut and tries to move around and avoid all obstacles, crashing into any of them will end the game and show the players score.
@@ -34,6 +32,7 @@ A javaScript game that the player controls the astronaut and tries to move aroun
 * Use Live Server or server of choice (MAMP etc.) to run the game
 
 ### Known Bugs
+* Lagging is happening, objects continue to persist after exiting the screen
 * Player can leave the screen going up or going down
 * Hitbox of player isn't pixel perfect
 
@@ -43,5 +42,7 @@ A javaScript game that the player controls the astronaut and tries to move aroun
 * Bootstrap
 * JavaScript
 * jQuery
+
+<img width="15%" src="astro.gif" />
 
 Copyright (c) 2019 Tanner Damron, Porter Savage, Clara Munro, Maddy Haldeman, and Jimmy Zebroski.
